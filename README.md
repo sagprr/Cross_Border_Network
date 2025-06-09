@@ -1,4 +1,12 @@
-# 🛰️ Border Weapons & Vehicles Inventory Monitoring and Image Comparison System
+# Border Weapons & Vehicles Inventory Monitoring and Image Comparison System
+
+## 🌐 Live Deployment
+
+Access the live project here:  
+🔗 [https://savior-team.netlify.app/](https://savior-team.netlify.app/)
+
+---
+
 
 ## Overview
 
@@ -31,11 +39,3 @@ It integrates **computer vision**, **cloud databases**, and a **user-friendly da
 | Model Training | Python, Jupyter Notebook |
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/border-monitoring-system.git
-cd border-monitoring-system
