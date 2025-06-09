@@ -6,6 +6,9 @@ Access the live project here:
 🔗 [https://savior-team.netlify.app/](https://savior-team.netlify.app/)
 
 ---
+<img width="1264" alt="Screenshot 2025-06-09 at 11 26 40 AM" src="https://github.com/user-attachments/assets/20a91489-3f6e-4f90-9533-af2039facc82" />
+<img width="1344" alt="Screenshot 2025-06-09 at 11 26 58 AM" src="https://github.com/user-attachments/assets/735ece5c-09ee-4f48-8b10-b70ce8a6ea86" />
+<img width="507" alt="Screenshot 2025-06-09 at 11 29 17 AM" src="https://github.com/user-attachments/assets/4e3ffb78-8db0-4af1-9862-222d785f4b55" />
 
 
 ## Overview
